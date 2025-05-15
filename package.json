@@ -1,0 +1,11 @@
+{
+  "name": "aicm-wrapper-cli-test",
+  "version": "0.1.0",
+  "main": "index.js",
+  "bin": "./index.js",
+  "license": "ISC",
+  "dependencies": {
+    "aicm": "^0.6.2",
+    "pirate-coding": "^1.0.0"
+  }
+}
