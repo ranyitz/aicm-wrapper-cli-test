@@ -5,7 +5,7 @@
   "bin": "./index.js",
   "license": "ISC",
   "dependencies": {
-    "aicm": "^0.6.2",
+    "aicm": "^0.6.5",
     "pirate-coding": "^1.0.0"
   }
 }
